@@ -1,3 +1,3 @@
 name: Hello World Docker Compose Recipe
 desc: Used the publicly available hello-world image to create Docker containers
-engine: docker_compose
+engine: docker-compose
